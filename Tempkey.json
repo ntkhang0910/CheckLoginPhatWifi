@@ -8,8 +8,8 @@
   },
   {
     "id": "5305bb5f13a54c02",
-    "username": "test",
-    "password": "test",
+    "username": "abc",
+    "password": "123",
     "expiresAt": "2100-12-31",
     "allowOffline": false
   }
