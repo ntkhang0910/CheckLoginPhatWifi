@@ -4,7 +4,7 @@
     "username": "admin",
     "password": "admin",
     "expiresAt": "2100-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
