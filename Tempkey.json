@@ -1,6 +1,6 @@
 [
   {
-    "id": "test",
+    "id": "admin",
     "username": "admin",
     "password": "admin",
     "expiresAt": "2100-12-31",
