@@ -19,5 +19,12 @@
     "password": "14c2c",
     "expiresAt": "2100-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "8712a0aca0ad5e27",
+    "username": "d5e27",
+    "password": "d5e27",
+    "expiresAt": "2100-12-31",
+    "allowOffline": false
   }
 ]
