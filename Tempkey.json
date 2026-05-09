@@ -47,5 +47,12 @@
     "password": "a5115",
     "expiresAt": "2100-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "118f9c0454e404f0",
+    "username": "404f0",
+    "password": "404f0",
+    "expiresAt": "2100-12-31",
+    "allowOffline": false
   }
 ]
