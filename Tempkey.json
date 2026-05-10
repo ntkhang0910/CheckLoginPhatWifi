@@ -61,5 +61,12 @@
     "password": "de455",
     "expiresAt": "2100-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "4ba664b31d6b8b16",
+    "username": "b8b16",
+    "password": "b8b16",
+    "expiresAt": "2100-12-31",
+    "allowOffline": false
   }
 ]
