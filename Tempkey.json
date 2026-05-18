@@ -76,12 +76,11 @@
     "expiresAt": "2100-12-31",
     "allowOffline": false
   },
-{
+  {
     "id": "4c8664535ba74a38",
     "username": "74a38",
     "password": "74a38",
     "expiresAt": "2100-12-31",
     "allowOffline": false
-}
-  
+  }
 ]
