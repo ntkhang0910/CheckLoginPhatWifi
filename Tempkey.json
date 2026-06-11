@@ -124,5 +124,12 @@
     "password": "2a9b3",
     "expiresAt": "2100-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "7d9bf3676e302e78",
+    "username": "02e78",
+    "password": "02e78",
+    "expiresAt": "2100-12-31",
+    "allowOffline": false
   }
 ]
