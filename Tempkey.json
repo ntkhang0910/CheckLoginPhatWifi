@@ -145,5 +145,12 @@
     "password": "eb7c8",
     "expiresAt": "2100-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "b1e705446a8550bc",
+    "username": "550bc",
+    "password": "550bc",
+    "expiresAt": "2100-12-31",
+    "allowOffline": false
   }
 ]
