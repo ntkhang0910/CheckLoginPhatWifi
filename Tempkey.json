@@ -172,6 +172,6 @@
     "username": "2f9dd",
     "password": "2f9dd",
     "expiresAt": "2100-12-31",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
